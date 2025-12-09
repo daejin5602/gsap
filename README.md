@@ -14,11 +14,6 @@ ScrollTrigger로 스크롤 기반 인터랙션 구현
 
 작은 UI/UX 애니메이션 실험
 
-📁 Folder Structure
-/01-basic         # GSAP 기본 문법 연습
-/02-timeline      # Timeline 애니메이션
-/03-scroll        # ScrollTrigger 실습
-/playground       # 자유로운 GSAP 실험 공간
 
 🛠 Tech Stack
 
