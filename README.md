@@ -1,4 +1,4 @@
-# gsap
+# GSAP
 🌿 GSAP Tutorial Playground
 
 GSAP(GreenSock Animation Platform)을 공부하면서 정리한 실습 레포입니다.
